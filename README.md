@@ -8,3 +8,4 @@ Customizable Feed: Tailor your news feed to your interests, whether it's global 
 Sleek Design: Enjoy a modern and user-friendly interface for a smooth news-reading experience.
 Trending Stories: Discover the latest trends and popular stories with the app's trending section.
 Offline Reading: Access your saved articles even without an internet connection.
+
