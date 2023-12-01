@@ -9,3 +9,4 @@ Sleek Design: Enjoy a modern and user-friendly interface for a smooth news-readi
 Trending Stories: Discover the latest trends and popular stories with the app's trending section.
 Offline Reading: Access your saved articles even without an internet connection.
 
+
