@@ -10,3 +10,4 @@ Trending Stories: Discover the latest trends and popular stories with the app's 
 Offline Reading: Access your saved articles even without an internet connection.
 
 
+
