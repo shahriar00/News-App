@@ -16,6 +16,7 @@ Offline Reading: Access your saved articles even without an internet connection.
 ![Screenshot_2023-11-28-22-52-39-322_com example newsapp](https://github.com/shahriar00/News-App/assets/70763173/9955d8f3-cd31-411d-b35a-ef6459b01612)
 
 
+![Screenshot_2023-11-28-22-52-50-527_com example newsapp](https://github.com/shahriar00/News-App/assets/70763173/a81f60e5-4602-4e75-aa90-b2562f3ef3ee)
 
 
 
