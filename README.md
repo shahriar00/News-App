@@ -9,6 +9,7 @@ Sleek Design: Enjoy a modern and user-friendly interface for a smooth news-readi
 Trending Stories: Discover the latest trends and popular stories with the app's trending section.
 Offline Reading: Access your saved articles even without an internet connection.
 
+![Screenshot_2023-11-28-22-51-19-513_com example newsapp](https://github.com/shahriar00/News-App/assets/70763173/9c58fe5a-81a1-4db2-a9bd-39fa441ec6a1)
 
 
 
