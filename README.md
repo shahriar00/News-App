@@ -1,6 +1,5 @@
 # News App
 ### Explore the world of news with our Flutter News App, a mobile application built using the Flutter framework and powered by the news API. This app provides users with a seamless and intuitive platform to stay informed about the latest news across various categories.
-
 ### Key Features:
 
 Real-time Updates: Receive breaking news and updates in real-time from the News API.
